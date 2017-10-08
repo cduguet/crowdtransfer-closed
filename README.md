@@ -1,1 +1,1 @@
-# Goodby website for CrowdTransfer
+# Goodbye website for CrowdTransfer
